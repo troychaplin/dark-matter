@@ -209,7 +209,8 @@
 			},
 			"h1": {
 				"typography": {
-					"fontSize": "var(--wp--preset--font-size--custom-1)"
+					"fontSize": "var(--wp--preset--font-size--custom-1)",
+					"lineHeight": "1.2"
 				}
 			},
 			"h2": {
